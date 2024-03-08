@@ -43,6 +43,8 @@
     #### Pandas 학습
     데이터 분석(로딩, 처리..) 라이브러리
 
+    ![자료구조](https://raw.githubusercontent.com/YoonChanWo0/bigdata-analysis-2024/main/images/ba001.png)
+
     1.Pandas 자료구조
         - 데이터프레임, 시리즈 
         - [데이터프레임 사용법](https://github.com/YoonChanWo0/bigdata-analysis-2024/blob/main/Day01.md)
