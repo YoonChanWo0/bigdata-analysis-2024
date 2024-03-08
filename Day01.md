@@ -47,7 +47,7 @@
 
     1.Pandas 자료구조
         - 데이터프레임, 시리즈 
-        - [데이터프레임 사용법](https://github.com/YoonChanWo0/bigdata-analysis-2024/blob/main/Day01.md)
+        - [데이터프레임 사용법](https://github.com/YoonChanWo0/bigdata-analysis-2024/blob/main/day01/da01_pandas_basic.ipynb)
         - 데이터 통합
 
     ##### VS Code 문제확인
