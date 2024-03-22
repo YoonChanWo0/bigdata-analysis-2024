@@ -14,7 +14,7 @@
 ##### [와인등급 예측](https://github.com/YoonChanWo0/bigdata-analysis-2024/blob/main/day11/da24_%EC%99%80%EC%9D%B8%ED%92%88%EC%A7%88%EB%93%B1%EA%B8%89_%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb)
 - 10일차에 statsmodels로 기술통계 방식으로 와인등급 선형회귀 예제를 Scikit-Learn 재실습
 
-    ![결과산점도](https://raw.githubusercontent.com/YoonChanWo0g/bigdata-analysis-2024/main/images/ba015.png)
+    ![결과산점도](https://raw.githubusercontent.com/YoonChanWo0/bigdata-analysis-2024/main/images/ba015.png)
 
 #### 분류분석
 - 로지스틱 회귀분석
